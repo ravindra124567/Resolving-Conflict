@@ -2,7 +2,7 @@ pseudo code
 {
 Initial Function()
 {
-  //Sample Code
+  //mujha tumha  kuch nahi bolna chaiya tha
 }
 
 Initial Security()
